@@ -15,7 +15,7 @@ const updateGradient = () => {
 
 const showCopyBox = () => {
    Object.assign(copyBoard.style, {
-      width: "35%",
+      width: "40%",
       height: "450px",
       opacity: "1",
       fontSize: "45px",
